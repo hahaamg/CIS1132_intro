@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans-tc: "Noto Sans TC", sans-serif;
+  --font-mono-jb: "JetBrains Mono", monospace;
+}
+
+body {
+  background-color: #FDFCF8;
+  color: #292524; /* stone-800 */
+}
